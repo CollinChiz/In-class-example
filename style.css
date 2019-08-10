@@ -30,3 +30,6 @@ div.contact {
  bottom: 40px;
  padding-right:20px;
 }
+a {
+    color: red;
+}
